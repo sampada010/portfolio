@@ -5,7 +5,7 @@ import Typewriter from 'typewriter-effect';
 
 const Home = () => {
   return (
-    <div name="Home" className="w-full min-h-auto grid grid-cols-1 lg:grid-cols-2 bg-gradient-to-b from-black via-black to-gray-800">
+    <div name="Home" className="w-full min-h-screen grid grid-cols-1 lg:grid-cols-2 bg-gradient-to-b from-black via-black to-gray-800">
       <motion.div
         initial={{ opacity: 0 }}
         animate={{ opacity: 1 }}
