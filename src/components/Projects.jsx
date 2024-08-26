@@ -18,13 +18,13 @@ const Projects = () => {
         {
             id: 3,
             src: Portfolio,
-            link: '#',
+            link: 'https://github.com/sampada010/portfolio',
         }
     ]
 
     return (
         <div name='Projects' className="w-full min-h-auto bg-gradient-to-b from-gray-800 to-black gap-4 sm:gap-6 lg:gap-8 px-4 sm:px-6 lg:px-12 py-6 sm:py-8">
-            <div className="max-w-screen-lg mx-auto px-4 flex flex-col justify-center w-full">
+            <div className="max-w-screen-lg mx-auto px-6 flex flex-col justify-center w-full">
                 <div className="pb-8">
                     <div className="text-4xl md:text-5xl font-extrabold">
                         <span className="bg-clip-text text-transparent bg-gradient-to-r from-indigo-600 via-purple-500 to-pink-500"> Projects</span>
