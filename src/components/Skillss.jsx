@@ -30,7 +30,7 @@ const Skillss = () => {
 
   return (
     <div name="Skills" className="bg-gradient-to-b from-black via-black to-gray-800 w-full min-h-auto gap-4 sm:gap-6 lg:gap-8 px-4 sm:px-6 lg:px-12 py-6 sm:py-8px-16 lg:px-12">
-      <div className="max-w-screen-lg mx-auto px-4 flex flex-col justify-center w-full h-full">
+      <div className="max-w-screen-lg mx-auto px-6 flex flex-col justify-center w-full h-full">
         <div>
           <div className="text-4xl md:text-5xl font-extrabold">
             <span className="bg-clip-text text-transparent bg-gradient-to-r from-indigo-500 via-purple-500 to-pink-500">Skills</span>
