@@ -3,6 +3,7 @@ import CareerMate from '../assets/careerMate.png'
 import aws from '../assets/aws.png'
 import Portfolio from '../assets/portfolio.png'
 import HospitalMng from '../assets/hospital.jpg'
+import BMI from '../assets/bmi.png'
 
 const Projects = () => {
     const project = () => [
@@ -25,6 +26,11 @@ const Projects = () => {
             id: 4,
             src: HospitalMng,
             link: 'https://github.com/sampada010/Hospital-Management-Backend',
+        },
+        {
+            id: 5,
+            src: BMI,
+            link: 'https://github.com/sampada010/BMI-Calculator/tree/master',
         }
     ]
 
