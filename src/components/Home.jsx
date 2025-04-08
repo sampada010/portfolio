@@ -40,7 +40,7 @@ const Home = () => {
           </h1>
           <div className="flex justify-center lg:justify-start mt-8">
             <a
-              href="./Sampada_Tagalpallewar_Resume1.pdf"
+              href="./Sampada_Tagalpallewar_Resume.pdf"
               download="Sampada_Tagalpallewar_Resume.pdf"
               className="text-center font-secondary hover:bg-cyan-500 hover:text-white font-semibold px-6 py-3 border-2 border-cyan-500 rounded transition duration-500 ease-in-out bg-transparent text-cyan-500 mb-2"
             >

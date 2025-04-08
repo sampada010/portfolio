@@ -2,6 +2,7 @@ import React from 'react'
 import CareerMate from '../assets/careerMate.png'
 import aws from '../assets/aws.png'
 import Portfolio from '../assets/portfolio.png'
+import HospitalMng from '../assets/hospital.jpg'
 
 const Projects = () => {
     const project = () => [
@@ -19,6 +20,11 @@ const Projects = () => {
             id: 3,
             src: Portfolio,
             link: 'https://github.com/sampada010/portfolio',
+        },
+        {
+            id: 4,
+            src: HospitalMng,
+            link: 'https://github.com/sampada010/Hospital-Management-Backend',
         }
     ]
 

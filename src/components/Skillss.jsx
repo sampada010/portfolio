@@ -11,6 +11,10 @@ import ExpressJS from '../assets/expressjs.png';
 import MongoDB from '../assets/mongo.png';
 import Github from '../assets/github.png';
 import Flutter from '../assets/flutter.png';
+import aws from '../assets/aws-icon.png';
+import jira from '../assets/jira.png';
+import figma from '../assets/figma.png';
+import firebase from '../assets/firebase.png';
 
 const Skillss = () => {
   const tech = [
@@ -26,6 +30,10 @@ const Skillss = () => {
     { id: 8, src: MongoDB, title: 'MongoDB', style: 'shadow-green-500' },
     { id: 9, src: ExpressJS, title: 'Express JS', style: 'shadow-gray-400' },
     { id: 10, src: ReactJs, title: 'React JS', style: 'shadow-blue-500' },
+    { id: 11, src: firebase, title: 'Firebase', style: 'shadow-orange-500' },
+    { id: 12, src: jira, title: 'Jira', style: 'shadow-blue-500' },
+    { id: 13, src: figma, title: 'Figma', style: 'shadow-green-500' },
+    { id: 14, src: aws, title: 'AWS', style: 'shadow-yellow-500' },
   ];
 
   return (
